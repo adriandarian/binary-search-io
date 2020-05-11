@@ -1,6 +1,7 @@
 #include "solution.hpp"
 #include <bits/stdc++.h>
 #include <algorithm>
+
 using namespace std;
 
 bool Solution::solve(vector<int> &nums)

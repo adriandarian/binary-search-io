@@ -1,5 +1,6 @@
 #include "solution.hpp"
 #include <bits/stdc++.h>
+
 using namespace std;
 
 int Solution::solve(vector<int> &a, vector<int> &b)
